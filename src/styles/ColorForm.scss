@@ -3,6 +3,7 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  align-items: center;
   gap: 20px;
 
   input {
@@ -19,6 +20,7 @@
       padding-box;
     color: white;
     border: none;
+    min-height: 31px;
 
     &:disabled {
       opacity: 0.5;
@@ -33,7 +35,6 @@
     @media (max-width: 484px) {
       margin-right: 10px;
       width: 100%;
-      min-height: 32px;
     }
   }
 
