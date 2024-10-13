@@ -1,0 +1,32 @@
+.color-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  .color-item {
+    margin: 10px;
+    text-align: center;
+    position: relative;
+
+    .color-box {
+      width: 100px;
+      height: 60px;
+      border: 1px solid #000;
+      margin-bottom: 8px;
+    }
+
+    .remove-button {
+      border: 1px solid transparent;
+      position: absolute;
+      top: 0;
+      right: 0;
+      transform: translate(50%, -50%);
+      width: 20px;
+      height: 20px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      cursor: pointer;
+    }
+  }
+}

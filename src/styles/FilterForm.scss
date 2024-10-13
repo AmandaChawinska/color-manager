@@ -1,0 +1,23 @@
+.filter-form {
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 30px;
+
+  label {
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+
+    input {
+      width: 20px;
+      height: 20px;
+    }
+  }
+
+  @media (max-width: 684px) {
+    justify-content: flex-start;
+  }
+}

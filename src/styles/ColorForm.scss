@@ -1,0 +1,43 @@
+.color-form {
+  margin-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+
+  input {
+    text-transform: uppercase;
+    padding: 6px;
+    border-radius: 20px;
+  }
+
+  button {
+    margin-left: 10px;
+    border-radius: 6px;
+    background: transparent
+      linear-gradient(64deg, #fe4268, #cf67bc 49%, #6995f4) 0 0 no-repeat
+      padding-box;
+    color: white;
+    border: none;
+
+    &:disabled {
+      opacity: 0.5;
+    }
+
+    &:hover {
+      background: transparent
+        linear-gradient(64deg, #6995f4, #cf67bc 49%, #fe4268) 0 0 no-repeat
+        padding-box;
+    }
+
+    @media (max-width: 484px) {
+      margin-right: 10px;
+      width: 100%;
+      min-height: 32px;
+    }
+  }
+
+  label {
+    font-size: 20px;
+  }
+}
