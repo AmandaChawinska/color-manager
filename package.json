@@ -2,7 +2,7 @@
   "name": "forms-typescript",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amandachawinska.github.io/Color-manager/",
+  "homepage": "https://amandachawinska.github.io/color-manager/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
