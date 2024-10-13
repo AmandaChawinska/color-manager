@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Color-manager/static/css/main.6ee64a55.css",
-    "main.js": "/Color-manager/static/js/main.78f3fcb4.js",
-    "static/js/453.2790275c.chunk.js": "/Color-manager/static/js/453.2790275c.chunk.js",
-    "index.html": "/Color-manager/index.html",
-    "main.6ee64a55.css.map": "/Color-manager/static/css/main.6ee64a55.css.map",
-    "main.78f3fcb4.js.map": "/Color-manager/static/js/main.78f3fcb4.js.map",
-    "453.2790275c.chunk.js.map": "/Color-manager/static/js/453.2790275c.chunk.js.map"
+    "main.css": "/color-manager/static/css/main.6ee64a55.css",
+    "main.js": "/color-manager/static/js/main.eddf4807.js",
+    "static/js/453.2790275c.chunk.js": "/color-manager/static/js/453.2790275c.chunk.js",
+    "index.html": "/color-manager/index.html",
+    "main.6ee64a55.css.map": "/color-manager/static/css/main.6ee64a55.css.map",
+    "main.eddf4807.js.map": "/color-manager/static/js/main.eddf4807.js.map",
+    "453.2790275c.chunk.js.map": "/color-manager/static/js/453.2790275c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6ee64a55.css",
-    "static/js/main.78f3fcb4.js"
+    "static/js/main.eddf4807.js"
   ]
 }
